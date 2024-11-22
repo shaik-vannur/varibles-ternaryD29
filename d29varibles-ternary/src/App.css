@@ -1,0 +1,28 @@
+
+table{
+  border: 1px solid gray;
+  border-collapse: collapse;
+  width: 55%;
+  margin: 80px;
+  height: 400px;
+  background-color: rgb(116, 26, 157);
+  position: relative;
+  left: 200px;
+  text-align: center;
+
+
+
+}
+th,td{
+  border: 1px solid rgb(159, 100, 100);
+  color: white;
+
+}
+caption{
+  color: white;
+  background-color: rgb(103, 103, 217);
+}
+div{
+  background-color: rgb(14, 116, 119);
+}
+
